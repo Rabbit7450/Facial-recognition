@@ -1,6 +1,0 @@
-ID Único	Nombre	Carnet de Identidad	Cargo	Número de Trabajador
-2bc293a5-350d-4d7f-9a63-0055555573d1	Adalit Ticona	12393374	Obrero	785420
-eda417fe-8fb4-4048-9642-86e8f2b87a47	Adalit Tic	8576419	Director	457686
-32736551-8dd2-4bc8-83d2-6f338d3fd75d	Adalit Tic	765547	Obrero	785320
-117e3dde-f24f-4a5b-a7ac-a65cd2e0e285	Maria	5842665	Secretaria	123
-293df82c-9cc7-485d-ab35-95072fd67664	Adalit Ticona	adalit.tic@gmail.com	23/02/2002	Masculino	72084768	Z.Cementerio	La Paz	Bolivia	Gerente	Ciberseguridad	M
