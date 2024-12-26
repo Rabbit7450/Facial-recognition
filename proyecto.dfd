@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Bienvenido a hundir el barco'
+4
+1
+31
+'Coloca tus coordenadas en x y'
+5
+1
+4
+x, y
+6
+2
+1
+x
+1
+0
+1
+y
+1
+0
+7
+0
+1
+13
+x<=5 and y<=5
+4
+1
+7
+'error'
+13
+4
+1
+35
+'adivina las coordenadas del barco'
+5
+1
+4
+a, b
+6
+2
+1
+a
+1
+x
+1
+b
+1
+y
+7
+0
+1
+7
+a-b=x-y
+4
+1
+9
+'al agua'
+13
+4
+1
+15
+'barco hundido'
+13
+13
+1
